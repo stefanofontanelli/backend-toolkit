@@ -1,0 +1,2 @@
+backend-toolkit was created by Stefano Fontanelli.
+A list with all contributors can be found at: https://github.com/stefanofontanelli/backend-toolkit/contributors
