@@ -3,7 +3,7 @@ require 'time'
 
 Gem::Specification.new do |s|
     s.name        = 'backend-toolkit'
-    s.version     = '0.0.0'
+    s.version     = '0.0.1'
     s.date        = Time.now.to_date.to_s
     s.authors     = ['Stefano Fontanelli']
     s.email       = ['s.fontanelli@gmail.com']
