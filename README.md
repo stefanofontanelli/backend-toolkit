@@ -6,12 +6,13 @@ A set of classes that simplify building a scalable backend for your app.
 Requirements
 ----------------
 * redis (server and ruby gem)
+* json gem
 
 Installation
 ----------------
     $ gem install backend-toolkit
 
-Testing
+Development & Testing
 ----------------
     $ bundle install
     $ rake
